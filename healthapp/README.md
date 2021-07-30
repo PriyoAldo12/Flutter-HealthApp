@@ -2,8 +2,9 @@
 
 A new Flutter project.
 
-![application screenshot](Login.png "A beautiful login UI with Flutter")
-![application screenshot](Home.png "A beautiful Home UI with Flutter")
+![Image of Login](https://github.com/PriyoAldo12/Flutter-HealthApp/blob/main/healthapp/images/Login.png)
+![Image of Home](https://github.com/PriyoAldo12/Flutter-HealthApp/blob/main/healthapp/images/Home.png)
+
 
 ## Getting Started
 
